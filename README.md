@@ -3,6 +3,10 @@
 <h2>Nike Animation UI Design</h2>
 <img src="https://github.com/ScorpionN69/UI-UX-Design/blob/main/output/nike%20animation%20page.gif?raw=true">
 
+<h2>Fashion E-commerce Site UI Design</h2>
+<img src="https://github.com/ScorpionN69/Fashion-e-Commerce-UI-Design/blob/main/output/h1.png?raw=true">
+
+
 <h2>Portfolio UI Design</h2>
 <img src="https://github.com/ScorpionN69/UI-UX-Design/blob/main/output/portfolio.gif?raw=true">
 
